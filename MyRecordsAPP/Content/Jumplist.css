@@ -1,0 +1,24 @@
+﻿.jump{
+    list-style-type:none;
+    white-space:nowrap;
+    overflow-x:auto;
+    line-height:150%
+}
+
+.jumpItem{
+    display:inline;
+    width: 55px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 2px #888888;
+    line-height:120%
+}
+.jumpItem:hover { 
+    background-color: tomato;
+}
+.jumpDiv{
+    height: 3.8%;
+    border: 1px solid black;  
+}

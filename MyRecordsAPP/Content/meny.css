@@ -1,0 +1,46 @@
+﻿ .nav-glyphish-example .ui-btn { padding-top: 40px !important; }
+		.nav-glyphish-example .ui-btn:after { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+        #Myrecords:after {
+            background: url("icons/13-target.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #MyCD:after {
+            background: url("icons/13-target.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+         #signin:after {
+            background: url("icons/111-user.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #Statistik:after {
+            background: url("icons/17-bar-chart.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #MyVinyls:after {
+            background: url("icons/221-recordplayer.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #Addrecords:after {
+            background: url("icons/187-pencil.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #ByYear:after {
+            background: url("icons/83-calendar.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #Latest50:after {
+            background: url("icons/33-cabinet.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #Playlist:after {
+            background: url("icons/65-note.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #SignUp:after {
+            background: url("icons/65-note.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
+        #Om:after {
+            background: url("icons/84-lightbulb.png") 50% 50% no-repeat;
+            background-size: 26px 18px;
+        }
